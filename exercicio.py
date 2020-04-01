@@ -1,3 +1,4 @@
+#Oi, Ivan! Será que vai dar certo iss? Testando 1212
 import random
 caixa = 100
 jogando = True
