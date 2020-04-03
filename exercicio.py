@@ -1,4 +1,5 @@
 #Oi, Ivan! Será que vai dar certo iss? Testando 1212
+#Olá baitolas vamo ve se isso funfa
 import random
 caixa = 100
 jogando = True
